@@ -1,0 +1,18 @@
+{
+ 
+    "host": "ftp.phpnet.org",
+    "username": "sj140phpnet",
+    "password": "9QUIxnH2ZJ",
+    "remotePath": "/www/jmd/",
+    "localBasePath": "./_site/",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
